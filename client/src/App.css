@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+}
+
+.signup, .login {
+	height: 200px;
+	width: 300px;
+	margin: 20px auto;
+	background-color: #FEDE5D;
+	border-radius: 20px;
+	color: white;
+	border: outset 5px grey;
+}
+
+input {
+	margin-top: 30px;
+}
